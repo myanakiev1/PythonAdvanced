@@ -1,2 +1,2 @@
 # This is a sample Python script.
-print('test msg')
+print('First code changes')
